@@ -1,18 +1,8 @@
-hey yo
+Hi all, 
 
-its tejas 
+I am learning git again, as I have 
+forgotten evergything, working in 
+that shitload of a project.
 
-in the house
-
-yo y
-
-o
-
-
-
-new files
-
-
-aad
-
-asdcc
+Thanks, 
+tejas-kr
